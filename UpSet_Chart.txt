@@ -20,8 +20,8 @@ glycosyl hydrolase 37 family;0;0;0;0;0;1;0;0;0;0;0;0;0;0
 glycosyl hydrolase 56 family;1;0;0;1;1;0;0;0;0;1;1;1;0;0
 multicopper oxidase family;0;0;0;0;0;0;1;0;0;0;0;0;0;0
 natterin family;0;1;0;0;0;0;1;0;1;0;0;0;1;1
-nucleotide pyrophosphatase/phosphodiesterase family;0;0;1;1;1;1;0;0;1;0;1;0;1;0
-Peptidase M12A domain, Allrgn_V5/Tpx1_CS, CAP_domain;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+nucleotide pyrophosphatase_phosphodiesterase family;0;0;1;1;1;1;0;0;1;0;1;0;1;0
+Peptidase M12A domain, Allrgn_V5_Tpx1_CS, CAP_domain;1;0;0;0;0;0;0;0;0;0;0;0;0;0
 Peptidase M12A domain;0;0;0;0;0;0;0;0;1;0;1;0;0;0
 peptidase S1 family. Snake venom subfamily;0;0;0;0;1;0;0;0;0;0;0;0;0;0
 phospholipase A2 family. Group I subfamily. D49 sub-subfamily;0;0;1;0;1;1;1;1;1;0;1;0;1;1
@@ -60,7 +60,7 @@ sea anemone structural class 9a family;1;0;0;0;0;0;0;0;0;1;1;0;0;0
 sea anemone type 5 potassium channel toxin family;0;0;0;1;1;0;0;0;0;0;0;0;0;1
 ficolin lectin family. Veficolin subfamily;0;0;0;0;1;0;0;0;0;0;0;0;0;0
 snaclec family;1;1;0;1;1;1;1;1;1;0;1;1;1;1
-SNTX/VTX toxin family;0;1;0;1;1;1;0;1;1;1;1;1;1;1
+SNTX_VTX toxin family;0;1;0;1;1;1;0;1;1;1;1;1;1;1
 true venom lectin family;1;1;0;0;1;1;1;1;1;1;1;0;1;0
 AVIT (prokineticin) family;0;0;1;0;1;1;0;0;0;0;0;0;0;1
 ConoCAP - like;0;0;0;0;0;0;1;0;0;0;0;0;0;1
@@ -69,7 +69,7 @@ Cytotoxin A-III - like;0;0;0;0;0;1;1;1;1;0;1;0;1;0
 EGF domain peptide family;0;0;0;0;0;0;1;0;1;0;0;0;0;0
 EGF-like, Sushi, TSP type-1, LDL-receptor class A;0;0;1;1;1;1;0;0;1;0;0;0;0;0
 Elevenin-like;0;0;1;1;1;0;0;0;0;0;1;0;0;0
-endothelin/sarafotoxin family;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+endothelin_arafotoxin family;0;0;0;0;0;0;0;0;0;0;0;0;0;1
 glycoprotein hormones subunit alpha family;0;1;1;0;0;0;1;1;1;0;1;0;0;0
 glycoprotein hormones subunit beta family;0;0;1;0;0;0;1;1;0;0;1;0;0;0
 IGFBP N-terminal domain;0;0;0;0;0;0;1;0;0;0;0;0;1;0
@@ -80,9 +80,9 @@ Insulin-like growth factor-binding protein domain, Kazal-type serine protease in
 Kazal-like;0;0;0;0;0;0;1;0;0;0;0;0;0;0
 LDL-receptor class A domain;1;1;0;0;0;0;1;1;1;1;1;1;1;0
 NGF-beta family;1;0;0;0;0;0;1;0;0;0;1;0;0;0
-PDGF/VEGF growth factor family;1;0;0;0;0;0;0;0;0;1;1;0;0;1
+PDGF_VEGF growth factor family;1;0;0;0;0;0;0;0;0;1;1;0;0;1
 -SE-CTX-like;0;0;0;0;0;0;0;0;0;0;0;0;1;0
 TCTP family;1;0;1;0;0;0;0;0;0;0;0;0;0;0
 Thyroglobulin_1, 2 hits DOMAIN;0;0;0;0;0;0;0;0;1;0;0;0;0;0
-vasopressin/oxytocin family;0;0;0;1;0;0;0;0;0;0;0;0;1;0
+vasopressin_oxytocin family;0;0;0;1;0;0;0;0;0;0;0;0;1;0
 venom complement C3 homolog family;0;0;0;0;1;0;0;1;0;0;1;1;0;1
